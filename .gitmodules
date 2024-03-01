@@ -1,0 +1,3 @@
+[submodule "Src/BitCrack"]
+	path = Src/BitCrack
+	url = git@github.com:moala-t/BitCrack.git
