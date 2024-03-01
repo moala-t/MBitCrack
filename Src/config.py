@@ -1,9 +1,9 @@
 config = {
     "session_name":"MBitCrack",
     "window_name":"sub",
-    "address":"1JVnST957hGztonaWK6FougdtjxzHzRMMg",
-    "keyspace":("0000000000000000000000000000000000000000000000000000000002000000",
-                 "0000000000000000000000000000000000000000000000000000000003ffffff"),
+    "address":"1L5sU9qvJeuwQUdt4y1eiLmquFxKjtHr3E",
+    "keyspace":("0000000000000000000000000000000000000000000000000000010000000000",
+                 "000000000000000000000000000000000000000000000000000001ffffffffff"),
     "devices":[
         {
             "device_id":0,
